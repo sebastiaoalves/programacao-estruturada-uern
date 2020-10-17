@@ -50,6 +50,7 @@ int main(){
     leAluno(sala);
 
     apagaAlunos(sala);
-    
+
+
     return 0;
 }
