@@ -14,7 +14,6 @@ class TelaPrincipal : public QWidget
 public:
     TelaPrincipal(QWidget *parent = nullptr);
     ~TelaPrincipal();
-    //
 
 private:
     Ui::TelaPrincipal *ui;
