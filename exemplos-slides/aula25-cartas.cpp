@@ -36,6 +36,6 @@ int main(){
         cout << c.nome << " de " << c.naipe << endl;
         pilha.pop();
     }
-
+ 
     return 0;
 }
